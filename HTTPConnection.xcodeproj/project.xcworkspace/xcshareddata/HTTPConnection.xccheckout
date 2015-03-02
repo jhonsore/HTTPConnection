@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>27CB7D21-1B63-45E5-B5C3-06E245D02328</string>
+	<key>IDESourceControlProjectName</key>
+	<string>HTTPConnection</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>79978A47B8E397FA8E435BD2D33CAF525B476E83</key>
+		<string>https://github.com/jhonsore/HTTPConnection.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>HTTPConnection.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>79978A47B8E397FA8E435BD2D33CAF525B476E83</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/jhonsore/HTTPConnection.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>79978A47B8E397FA8E435BD2D33CAF525B476E83</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>79978A47B8E397FA8E435BD2D33CAF525B476E83</string>
+			<key>IDESourceControlWCCName</key>
+			<string>HTTPConnection</string>
+		</dict>
+	</array>
+</dict>
+</plist>
